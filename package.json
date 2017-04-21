@@ -1,0 +1,18 @@
+{
+  "name": "g1oo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Antonio Anacleto Zuchinali",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-validator": "^3.1.3",
+    "multer": "^1.3.0",
+    "mysql": "^2.13.0"
+  }
+}
